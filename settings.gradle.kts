@@ -18,7 +18,7 @@ pluginManagement {
     }
 }
 
-rootProject.name = "CheatBreakerX"
+rootProject.name = "blueleaff client"
 
 val supportedForgeVersions = listOf(
         "1.8.9",
